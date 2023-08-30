@@ -26,5 +26,5 @@ Print "   The difference is from: "; DIF; " US Dollars. "
 Print " "
 Print " "
 Print "  Press any key (or CTRL + BREAK) to exit.... ";
-Rem Sleep is equivalent to pause in C, C++, C#,D, Java, rust and Python programming languages.
+Rem Sleep is equivalent to system ("pause") in C, C++, C#,D, Java, rust and Python programming languages.
 Sleep 240  Rem Disable this. If use Small basic for Android 
